@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SOS APP</string>
+    <string-array name="randomText">
+        <item>"인간은 공기 없이 3분, 온도 없이 3시간, 물 없이 3일, 식량 없이 3주를 버팁니다."</item>
+        <item>"만약 당신이 조난을 당했다면, 셸터를 짓고 비와 바람을 피하세요."</item>
+        <item>"아무리 목이 말라도 바닷물을 먹으면 안됩니다."</item>
+        <item>"170cm, 70kg의 남성을 기준으로 하루에 필요한 칼로리는 3,000 ~ 3,500kcal 입니다"</item>
+        <item>"계곡이나 강을 따라 걸으면 문명을 찾을 확률이 높아집니다. 다만 범람을 조심해야합니다."</item>
+        <item>"개통되지 않은 단말기도 비상전화는 가능합니다. 이중 하나로 전화하세요. (911, 119, 999, 000, 111, 112)</item>
+    </string-array>
+</resources>
