@@ -1,6 +1,7 @@
 # sosApp
 
-![Screenshot_20241115-175722_SOS APP](https://github.com/user-attachments/assets/88fe7615-eb2a-4a80-b116-d8abead11176)
+![Screenshot_20241115-175722_SOS APP](https://github.com/user-attachments/assets/48c64829-0d82-4db6-aae3-c2934a57c4eb)
+
 
 [안드로이드 프로그램 기말고사 텀 프로젝트] 재난상황에 활용할 수 있는 SOS 어플리케이션
 
