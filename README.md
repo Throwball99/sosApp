@@ -1,4 +1,4 @@
-# sosApp
+# [안드로이드 프로그래밍 텀프로젝트]sosApp
 
 ![Screenshot_20241115-175722_SOS APP](https://github.com/user-attachments/assets/48c64829-0d82-4db6-aae3-c2934a57c4eb)
 
